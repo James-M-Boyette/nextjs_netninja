@@ -6,7 +6,8 @@ body {
   font-family: "Nunito";
 }
 a {
-  color: #333;
+  font-weight: bold;
+  color: rgb(3, 150, 248);
   text-decoration: none;
 }
 .content {
@@ -34,4 +35,12 @@ footer {
   margin-top: 60px;
   color: #777;
   border-top: 1px solid #eaeaea;
+}
+
+.not-found {
+  text-align: center;
+}
+.not-found a{
+  color: #4979ff;
+  text-decoration: underline;
 }

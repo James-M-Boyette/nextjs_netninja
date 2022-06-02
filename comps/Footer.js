@@ -1,8 +1,8 @@
 const Footer = () => {
     return ( 
-        <div>
+        <footer>
             <h4>Copyright Boyette Productions, 2022</h4>
-        </div>
+        </footer>
      );
 }
  
